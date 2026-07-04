@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Backup Manager</string>
+    <string name="add_rule">Add Rule</string>
+    <string name="new_rule">New Rule</string>
+    <string name="edit_rule">Edit Rule</string>
+    <string name="rule_name">Rule Name</string>
+    <string name="protocol">Protocol</string>
+    <string name="select_local_folder">Select Local Folder</string>
+    <string name="folder_selected">Folder Selected</string>
+    <string name="remote_ip">Remote IP</string>
+    <string name="port">Port</string>
+    <string name="remote_path">Remote Path (Share/Folder)</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="test_connection">Test Connection</string>
+    <string name="network_scheduling">Network &amp; Scheduling</string>
+    <string name="wifi_only">Wi-Fi only</string>
+    <string name="allow_mobile_roaming">Allow Mobile Roaming (International Data)</string>
+    <string name="delete_after_success">Delete local files after success</string>
+    <string name="schedule">Schedule</string>
+    <string name="save_rule">Save Rule</string>
+    <string name="sync_now">Sync Now</string>
+    <string name="delete">Delete</string>
+    <string name="back">Back</string>
+    <string name="connection_success">Connection Successful!</string>
+    <string name="connection_failed">Failed: %1$s</string>
+    <string name="cron_expression">Cron Expression (e.g. 0 0 * * *)</string>
+    <string name="export_rules">Export Rules (JSON)</string>
+    <string name="import_rules">Import Rules (JSON)</string>
+    <string name="next_sync">Next: %1$s</string>
+    <string name="manual">Manual</string>
+    <string name="time">Time</string>
+    <string name="day">Day</string>
+    <string name="activate">Activate</string>
+    <string name="deactivate">Deactivate</string>
+    <string name="excluded_folders">Excluded Folders</string>
+    <string name="excluded_folders_hint">Tap to select subfolders</string>
+    <string name="sync_progress">%1$d/%2$d files (%3$d%%)</string>
+    <string name="select_exclusions">Select Exclusions</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_subfolders">No subfolders found.</string>
+
+    <!-- Sync Statuses -->
+    <string name="status_idle">Idle</string>
+    <string name="status_in_progress">In Progress</string>
+    <string name="status_success">Success</string>
+    <string name="status_error">Error</string>
+    <string name="status_error_network">Error: Network Policy</string>
+    <string name="status_error_source">Error: Source Dir</string>
+    <string name="status_error_connection">Error: Connection</string>
+</resources>

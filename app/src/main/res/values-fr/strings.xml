@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Backup Manager</string>
+    <string name="add_rule">Ajouter une règle</string>
+    <string name="new_rule">Nouvelle règle</string>
+    <string name="edit_rule">Modifier la règle</string>
+    <string name="rule_name">Nom de la règle</string>
+    <string name="protocol">Protocole</string>
+    <string name="select_local_folder">Choisir le dossier local</string>
+    <string name="folder_selected">Dossier sélectionné</string>
+    <string name="remote_ip">IP Distante</string>
+    <string name="port">Port</string>
+    <string name="remote_path">Chemin distant (Partage/Dossier)</string>
+    <string name="username">Identifiant</string>
+    <string name="password">Mot de passe</string>
+    <string name="test_connection">Tester la connexion</string>
+    <string name="network_scheduling">Réseau &amp; Planification</string>
+    <string name="wifi_only">Wi-Fi uniquement</string>
+    <string name="allow_mobile_roaming">Autoriser l\'itinérance mobile (Données étranger)</string>
+    <string name="delete_after_success">Supprimer les fichiers après succès</string>
+    <string name="schedule">Périodicité</string>
+    <string name="save_rule">Enregistrer la règle</string>
+    <string name="sync_now">Synchroniser</string>
+    <string name="delete">Supprimer</string>
+    <string name="back">Retour</string>
+    <string name="connection_success">Connexion réussie !</string>
+    <string name="connection_failed">Échec : %1$s</string>
+    <string name="cron_expression">Expression Cron (ex: 0 0 * * *)</string>
+    <string name="export_rules">Exporter les règles (JSON)</string>
+    <string name="import_rules">Importer des règles (JSON)</string>
+    <string name="next_sync">Prochain : %1$s</string>
+    <string name="manual">Manuel</string>
+    <string name="time">Heure</string>
+    <string name="day">Jour</string>
+    <string name="activate">Activer</string>
+    <string name="deactivate">Désactiver</string>
+    <string name="excluded_folders">Dossiers exclus</string>
+    <string name="excluded_folders_hint">Appuyer pour sélectionner les sous-dossiers</string>
+    <string name="sync_progress">%1$d/%2$d fichiers (%3$d%%)</string>
+    <string name="select_exclusions">Sélectionner les exclusions</string>
+    <string name="confirm">Confirmer</string>
+    <string name="cancel">Annuler</string>
+    <string name="no_subfolders">Aucun sous-dossier trouvé.</string>
+
+    <!-- Statuts de synchro -->
+    <string name="status_idle">En attente</string>
+    <string name="status_in_progress">En cours</string>
+    <string name="status_success">Succès</string>
+    <string name="status_error">Erreur</string>
+    <string name="status_error_network">Erreur : Politique Réseau</string>
+    <string name="status_error_source">Erreur : Dossier Source</string>
+    <string name="status_error_connection">Erreur : Connexion</string>
+</resources>
